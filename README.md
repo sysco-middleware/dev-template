@@ -1,9 +1,14 @@
 NB! this is _crafting-in-progress_ DEV Template for public repos       
 
-# What is this about & name        
+# Name of this project   
+
+Self descriptive and humanized, less abbreviations are better.    
+
+
+# What is this about   
 
 Short description of the project.  
-Self descriptive and humanized, less abbreviations are better.   
+ 
 
 # How to Make & Contribute      
 Guide your colleagues and other developers on how to clone, build and run the code in local environment.
